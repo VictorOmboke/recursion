@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+//Iterative fibonacci solution
 function fibs(num) {
   if (num <= 0) {
     return [];
@@ -25,6 +26,7 @@ console.log(fibs(8));
 console.log("Iterative solution for fibonacci(10):");
 console.log(fibs(10));
 
+//Recursive fibonacci solution
 function fibRec(num) {
   if (num < 2) {
     return num;
