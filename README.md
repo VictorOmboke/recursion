@@ -1,1 +1,1 @@
-# recursion
+This was a simple project on recursion where the goal was to use recursion to solve common computer science problems as an introductory to computer science topics like data structures and algorithms. Recursion is quite confusing as beginner but seeing how efficient it can be to solve problems where iteration can be a more complex strategy is really interesting.

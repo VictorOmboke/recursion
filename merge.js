@@ -13,6 +13,7 @@ function mergeSort(array) {
   return merge(mergeSort(left), mergeSort(right));
 }
 
+//function to merge both halves of the array in order
 function merge(left, right) {
   const result = [];
 
